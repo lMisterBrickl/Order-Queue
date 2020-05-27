@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1590586160 source:c:\users\marius pap\desktop\exercitii\proiect grafuri\node.cpp
+	<iostream>
+	<string.h>
+
+1590584329 source:c:\users\marius pap\desktop\exercitii\proiect grafuri\src\nod.cpp
+	"Nod.h"
+
+1590584329 c:\users\marius pap\desktop\exercitii\proiect grafuri\include\nod.h
+
+1590593008 source:c:\users\marius pap\desktop\exercitii\proiect grafuri\order.cpp
+	<iostream>
+	<string.h>
+	"node.cpp"
+	<fstream>
+
+1590586160 c:\users\marius pap\desktop\exercitii\proiect grafuri\node.cpp
+	<iostream>
+	<string.h>
+
+1590592962 source:c:\users\marius pap\desktop\exercitii\proiect grafuri\main.cpp
+	<iostream>
+	"order.cpp"
+	<stdlib.h>
+
+1590593008 c:\users\marius pap\desktop\exercitii\proiect grafuri\order.cpp
+	<iostream>
+	<string.h>
+	"node.cpp"
+	<fstream>
+
